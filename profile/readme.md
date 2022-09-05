@@ -23,6 +23,7 @@
 - [SecretScanner](https://github.com/deepfence/SecretScanner)  - 🔓 🔓 Find secrets and passwords in container images and file systems 🔓 🔓<br>
 - [PacketStreamer](https://github.com/deepfence/PacketStreamer) - ⭐ ⭐ Distributed tcpdump for cloud native environments ⭐ ⭐ <br>
 - [FlowMeter](https://github.com/deepfence/FlowMeter) - ⭐ ⭐ Use ML to classify flows and packets as benign or malicious. ⭐ ⭐ <br>
+- [YaraHunter](https://github.com/deepfence/YaraHunter) - 🔍🔍 Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍 <br> 
 
 ## Deepfence Enterprise 
 
