@@ -1,4 +1,4 @@
-<div align="center"><img width="65%" height="65%" src="https://go.deepfence.io/hubfs/Deepfence_Logos-Gradient_BlackType.svg" alt="Deepfence"></div>
+<div align="center"><img width="65%" height="65%" src="https://raw.githubusercontent.com/deepfence/.github/main/assets/img/deefence-github-banner.png" alt="Deepfence"></div>
 
 <p align="center">
   <a href="https://deepfence.io"> Deepfence Website</a> •
