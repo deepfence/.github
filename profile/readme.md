@@ -25,6 +25,11 @@
 - [FlowMeter](https://github.com/deepfence/FlowMeter) - ⭐ ⭐ Use ML to classify flows and packets as benign or malicious. ⭐ ⭐ <br>
 - [YaraHunter](https://github.com/deepfence/YaraHunter) - 🔍🔍 Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍 <br> 
 
+## Speed Up Your Developer Security Experience with Our Docker extension 
+
+- [SecretScanner](https://github.com/deepfence/secretscanner-docker-extension) - Find secrets and passwords in container images and file systems via Docker extension 
+- [YaraHunter](https://github.com/deepfence/yarahunter-docker-extension) - Malware scanner for cloud-native, as part of CI/CD and at Runtime via Docker extension 
+
 ## Deepfence Enterprise 
 
 - [ThreatStryker](https://deepfence.io/threatstryker/) - ThreatStryker, the enterprise solution that extends ThreatMapper with runtime attack analysis, threat assessment, and targeted protection for your applications
