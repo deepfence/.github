@@ -19,10 +19,10 @@
 <p align="center">🌟 Give a Gitstar </p>
 
 ## OSS Projects
-- [ThreatMapper](https://github.com/deepfence/ThreatMapper) -  Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥 <br>
+- [ThreatMapper](https://github.com/deepfence/ThreatMapper) -  Open Source Cloud Native Application Protection Platform (CNAPP) 🔥 🔥 <br>
 - [SecretScanner](https://github.com/deepfence/SecretScanner)  - Find secrets and passwords in container images and file systems 🔓 🔓<br>
 - [PacketStreamer](https://github.com/deepfence/PacketStreamer) - Distributed tcpdump for cloud native environments ⭐ ⭐ <br>
-- [FlowMeter](https://github.com/deepfence/FlowMeter) -  Use ML to classify flows and packets as benign or malicious. ⭐ ⭐ <br>
+- [FlowMeter](https://github.com/deepfence/FlowMeter) -  Use ML to classify flows and packets as benign or malicious ⭐ ⭐ <br>
 - [YaraHunter](https://github.com/deepfence/YaraHunter) - Malware scanner for cloud-native, as part of CI/CD and at Runtime 🔍🔍 <br> 
 - [Ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF 🐝 🦀 <br>
 ## Speed Up Your Developer Security Experience with Our Docker extensions 
